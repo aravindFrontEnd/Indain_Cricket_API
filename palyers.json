@@ -1,0 +1,79 @@
+{
+  "Players": [
+    {
+      "Name": "Virat Kohli",
+      "Role": "Batsman",
+      "Image_URL": "images/virat.jpg"
+    },
+    {
+      "Name": "Rohit Sharma",
+      "Role": "Batsman",
+      "Image_URL": "images/rohit.jfif"
+    },
+    {
+      "Name": "MS Dhoni",
+      "Role": "Wicketkeeper",
+      "Image_URL": "images/dhoni.jfif"
+    },
+    {
+      "Name": "Cheteshwar Pujara",
+      "Role": "Batsman",
+      "Image_URL": "images/pujara.jfif"
+    },
+    {
+      "Name": "Ajinkya Rahane",
+      "Role": "Batsman",
+      "Image_URL": "images/rahane.jpg"
+    },
+    {
+      "Name": "Ravindra Jadeja",
+      "Role": "All-rounder",
+      "Image_URL": "images/jadeja.jpg"
+    },
+    {
+      "Name": "Shikhar Dhawan",
+      "Role": "Batsman",
+      "Image_URL": "images/shawan.jfif"
+    },
+    {
+      "Name": "Jasprit Bumrah",
+      "Role": "Bowler",
+      "Image_URL": "images/bumrah.jpg"
+    },
+    {
+      "Name": "Hardik Pandya",
+      "Role": "All-rounder",
+      "Image_URL": "images/pandya.jpg"
+    },
+    {
+      "Name": "Rishabh Pant",
+      "Role": "Wicketkeeper",
+      "Image_URL": "images/pant.jpg"
+    },
+    {
+      "Name": "Mayank Agarwal",
+      "Role": "Batsman",
+      "Image_URL": "images/mayank.jpg"
+    },
+    {
+      "Name": "Mohammed Shami",
+      "Role": "Bowler",
+      "Image_URL": "images/shami.jfif"
+    },
+    {
+      "Name": "Ishant Sharma",
+      "Role": "Bowler",
+      "Image_URL": "images/ishant.jpg"
+    },
+    {
+      "Name": "Ravichandran Ashwin",
+      "Role": "All-rounder",
+      "Image_URL": "images/ashwin.jpg"
+    },
+    {
+      "Name": "KL Rahul",
+      "Role": "Batsman",
+      "Image_URL": "images/rahul.jpg"
+    }
+  ]
+}
