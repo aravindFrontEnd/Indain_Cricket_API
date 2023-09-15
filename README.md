@@ -25,45 +25,18 @@ Here is a list of some of the Indian cricket players included in this dataset:
 
 1. **Virat Kohli**
    - **Role:** Batsman
-   - ![Image](https://example.com/virat_kohli.jpg)
+   - ![Image](https://i.pinimg.com/originals/d8/20/95/d8209588924377a85965e305401e924d.jpg)
 
 2. **Rohit Sharma**
    - **Role:** Batsman
-   - ![Image](https://example.com/rohit_sharma.jpg)
+   - ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUNMIOfP-KNbXglRayLzmx4SbGOqfENJwNsV2sFl8&s)
 
 3. **MS Dhoni**
    - **Role:** Wicketkeeper
-   - ![Image](https://example.com/ms_dhoni.jpg)
+   - ![Image](https://e0.pxfuel.com/wallpapers/30/50/desktop-wallpaper-ms-dhoni-dhoni-stumping-in-ipl-ms-dhoni-csk-thumbnail.jpg)
 
-4. **Cheteshwar Pujara**
-   - **Role:** Batsman
-   - ![Image](https://example.com/cheteshwar_pujara.jpg)
 
-5. **Ajinkya Rahane**
-   - **Role:** Batsman
-   - ![Image](https://example.com/ajinkya_rahane.jpg)
-
-6. **Ravindra Jadeja**
-   - **Role:** All-rounder
-   - ![Image](https://example.com/ravindra_jadeja.jpg)
-
-7. **Shikhar Dhawan**
-   - **Role:** Batsman
-   - ![Image](https://example.com/shikhar_dhawan.jpg)
-
-8. **Jasprit Bumrah**
-   - **Role:** Bowler
-   - ![Image](https://example.com/jasprit_bumrah.jpg)
-
-9. **Hardik Pandya**
-   - **Role:** All-rounder
-   - ![Image](https://example.com/hardik_pandya.jpg)
-
-10. **Rishabh Pant**
-    - **Role:** Wicketkeeper
-    - ![Image](https://example.com/rishabh_pant.jpg)
-
-[Include more players as needed.]
+..............
 
 ## Usage
 
